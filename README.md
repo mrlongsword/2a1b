@@ -1,6 +1,6 @@
 # 2a1b
 ## Description
-A simple number guessing game in using WinForms
+A simple number guessing game using WinForms
 ## Screenshots
 ### main menu
 <img width="376" alt="image" src="https://user-images.githubusercontent.com/60816759/148637956-bb9f7721-f482-4d00-8aea-975e45a799b4.png">
